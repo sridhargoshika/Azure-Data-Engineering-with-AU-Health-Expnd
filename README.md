@@ -6,7 +6,7 @@ This project demonstrates an end-to-end Azure ETL Data Engineering solution for 
 
 The goal of this ETL project is to showcase how to ingest, process, and analyse Australia's Health Expenditure data using Azure services. The ETL flow involves extracting data, transforming it using DataBricks, storing it in Data Lake, and creating visualizations in Power BI.
 
-![Project%20Diagram](Screenshots-charts\Project%20Diagram.png)
+![Project%20Diagram](Screenshots-charts/Project%20Diagram.png)
 
 ## Data Collection
 
@@ -18,25 +18,25 @@ Data source is from [Australian Institute of Health and Welfare](https://www.aih
 
 Extract-Copy activity
 
-![Extract%20-%20Copy%20activity](Screenshots-charts\Extract%20-%20Copy%20activity.png)
+![Extract%20-%20Copy%20activity](Screenshots-charts/Extract%20-%20Copy%20activity.png)
 
 Orchestrate pipelines
 
-![DataFactory-Orchestrate%20pipelines](Screenshots-charts\DataFactory-Orchestrate%20pipelines.png)
+![DataFactory-Orchestrate%20pipelines](Screenshots-charts/DataFactory-Orchestrate%20pipelines.png)
 
 - **DataBricks:** Performs advanced data transformations on the extracted data, using Python and SQL.
 
 Ingest
 
-![Databircks-ingest](Screenshots-charts\Databircks-ingest.gif)
+![Databircks-ingest](Screenshots-charts/Databircks-ingest.gif)
 
 Transform
 
-![Databircks-transform](Screenshots-charts\Databircks-transform.gif)
+![Databircks-transform](Screenshots-charts/Databircks-transform.gif)
 
 - **Data Lake:** Serves as the storage repository for raw, processed and presentation data.
 
-![Datalake-containers](Screenshots-charts\Datalake-containers.png)
+![Datalake-containers](Screenshots-charts/Datalake-containers.png)
 
 - **Azure AD:** Manage secured access.
 
@@ -44,7 +44,7 @@ Transform
 
 - **Power BI:** Creates insightful visualisations for data analysis and reporting.
 
-![PowerBI-report](Screenshots-charts\PowerBI-report.gif)
+![PowerBI-report](Screenshots-charts/PowerBI-report.gif)
 
 ## Project Structure
 
