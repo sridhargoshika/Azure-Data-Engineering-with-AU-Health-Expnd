@@ -8,6 +8,10 @@ The goal of this ETL project is to showcase how to ingest, process, and analyse 
 
 ![Project%20Diagram](Screenshots-charts/Project%20Diagram.png)
 
+## Power BI report
+
+You can view the [Power BI report here](https://app.powerbi.com/view?r=eyJrIjoiMWQwYTQxMmEtMjk2Ni00ZGZmLWJlOTgtOTJkOGUwZDI4ZjMyIiwidCI6IjhiMTc3ZWEzLWQzN2MtNDMyNS05NjQyLTQ1MDNlZmMxYzY1NCJ9).
+
 ## Data Collection
 
 Data source is from [Australian Institute of Health and Welfare](https://www.aihw.gov.au/reports/health-welfare-expenditure/health-expenditure-australia-2021-22/data).
