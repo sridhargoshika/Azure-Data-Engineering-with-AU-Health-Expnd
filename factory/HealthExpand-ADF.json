@@ -1,0 +1,9 @@
+{
+	"name": "HealthExpand-ADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a42066f9-0579-4e6c-8d4b-ddb06f9231e1",
+		"tenantId": "73250f2b-2de0-45fc-8887-38d436dff114"
+	}
+}
